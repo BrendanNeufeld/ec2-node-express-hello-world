@@ -1,0 +1,22 @@
+{
+  "name": "ec2-node-express-hello-world",
+  "version": "1.0.0",
+  "description": "Simple node express server for EC2 &amp; AWS experiments",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrendanNeufeld/ec2-node-express-hello-world.git"
+  },
+  "author": "Brendan Neufeld <brendanjneufeld@gmail.com> (https://github.com/BrendanNeufeld)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrendanNeufeld/ec2-node-express-hello-world/issues"
+  },
+  "homepage": "https://github.com/BrendanNeufeld/ec2-node-express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
